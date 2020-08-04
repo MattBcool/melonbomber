@@ -1,0 +1,12 @@
+name: MelonBomber
+author: TheGamingNinja11
+version: 1
+description: Allows for the gamemode MelonBomber
+main: com.tgn11.melonbomber.main.Main
+commands:
+    sm:
+        description: Spawns an exploding melon.
+    mbr:
+        description: Restarts the MelonBomber game.
+    imbr:
+        description: Restarts the MelonBomber game instantly.
